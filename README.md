@@ -6,6 +6,7 @@
 - **Languages:** Python, Java, HTML, CSS, Javascript, SQL, JSON, C
 - **Tools:** Git, Linux OS, IntelliJ, Visual Studio
 - **Python Libraries:** Tensor flow, Keras, Pandas, Matplotlib, Numpy
+- **Blockchain:** Ethereum, Solidity, Smart Contracts
 
 ## 🌟 I'm Interested In
 - **Blockchain Development:** Exploring decentralized applications (dApps) and smart contracts on Ethereum.
@@ -13,10 +14,10 @@
 - **Machine Learning:** Learning about data science, algorithms, and applying AI in real-world scenarios.
 - **Google Extension:** Gaining expertise in deploying web extensions to compact usage of browsers.
   
-  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 🚀 Featured Projects
+- [**Task Manager**](https://github.com/janedoe/task-manager): A robust task management application using ASP.NET MVC.
+- [**Blockchain Voting System**](https://github.com/janedoe/blockchain-voting): A decentralized voting system built on Ethereum.
+
 
 <!---
 hyder1129/hyder1129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

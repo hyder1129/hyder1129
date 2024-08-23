@@ -1,5 +1,7 @@
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-# Hello, I'm Shaik Hyder Ali! 👋
+<h1 align="center">
+  Hi there, I'm <a href="https://yourportfolio.com">Shaik Hyder Ali</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

@@ -6,7 +6,10 @@
 - **Tools:** Git, Linux OS, IntelliJ, Visual Studio
 - **Python Libraries:** Tensor flow, Keras, Pandas, Matplotlib, Numpy
 
-
+## 🛠️ Skills
+- **Languages:** ABAP, Java (J2EE), C#, .NET (ASP.NET/ASP.NET MVC)
+- **Tools:** Git, Docker, Jenkins, Visual Studio
+- **Blockchain:** Ethereum, Solidity, Smart Contracts
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

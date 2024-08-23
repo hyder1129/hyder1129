@@ -11,11 +11,11 @@
 ## 🌟 I'm Interested In
 - **Blockchain Development:** Exploring decentralized applications (dApps) and smart contracts on Ethereum.
 - **Full-Stack Development:** Building robust and scalable web applications using JavaScript frameworks.
-- **Machine Learning:** Learning about data science, algorithms, and applying AI in real-world scenarios.
+- **Machine Learning and Deep Learning:** Learning about data science, algorithms, and applying AI in real-world scenarios.
 - **Google Extension:** Gaining expertise in deploying web extensions to compact usage of browsers.
   
-## 🚀 I'm Currently Learninf
-- **Task Manager**: A robust task management application using ASP.NET MVC.
+## 🚀 I'm Currently Learning
+- **Deep Learning**: A robust DL algorithms to build the prediction models.
 - **Blockchain Voting System**: A decentralized voting system built on Ethereum.
 
 

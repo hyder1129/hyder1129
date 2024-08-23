@@ -23,8 +23,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyder1129&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/hyder-ali-shaik)
-- [Email](hyderalishaik1129@gmail.com)
+- [LinkedIn](https://linkedin.com/in/hyder-ali-shaik)
+- [Email](mailto:hyderalishaik1129@gmail.com)
 <!---
 hyder1129/hyder1129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

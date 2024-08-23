@@ -18,7 +18,9 @@
 - **Deep Learning**: A robust DL algorithms to build the prediction models.
 - **Blockchain Voting System**: A decentralized voting system built on Ethereum.
 
-
+## 📊 GitHub Stats
+![Jane Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact&theme=default)
 <!---
 hyder1129/hyder1129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -6,7 +6,14 @@
 - **Languages:** Python, Java, HTML, CSS, Javascript, SQL, JSON, C
 - **Tools:** Git, Linux OS, IntelliJ, Visual Studio
 - **Python Libraries:** Tensor flow, Keras, Pandas, Matplotlib, Numpy
-- 👀 I’m interested in ...
+
+## 🌟 I'm Interested In
+- **Blockchain Development:** Exploring decentralized applications (dApps) and smart contracts on Ethereum.
+- **Full-Stack Development:** Building robust and scalable web applications using JavaScript frameworks.
+- **Machine Learning:** Learning about data science, algorithms, and applying AI in real-world scenarios.
+- **Google Extension:** Gaining expertise in deploying web extensions to compact usage of browsers.
+  
+  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

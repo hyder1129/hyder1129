@@ -1,6 +1,7 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://yourportfolio.com">Shaik Hyder Ali</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=Hello%2C+I'm+%5BYour+Name%5D!;Software+Developer;Blockchain+Enthusiast;Welcome+to+My+Profile!" alt="Typing SVG" />
 </h1>
+
 
 
 - 👀 I’m interested in ...

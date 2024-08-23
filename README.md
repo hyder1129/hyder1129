@@ -14,9 +14,9 @@
 - **Machine Learning:** Learning about data science, algorithms, and applying AI in real-world scenarios.
 - **Google Extension:** Gaining expertise in deploying web extensions to compact usage of browsers.
   
-## 🚀 Featured Projects
-- [**Task Manager**](https://github.com/janedoe/task-manager): A robust task management application using ASP.NET MVC.
-- [**Blockchain Voting System**](https://github.com/janedoe/blockchain-voting): A decentralized voting system built on Ethereum.
+## 🚀 I'm Currently Learninf
+- **Task Manager**: A robust task management application using ASP.NET MVC.
+- **Blockchain Voting System**: A decentralized voting system built on Ethereum.
 
 
 <!---

@@ -19,8 +19,8 @@
 - **Blockchain Voting System**: A decentralized voting system built on Ethereum.
 
 ## 📊 GitHub Stats
-![hyder1129 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyder's&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyder's&layout=compact&theme=default)
+![Hyder Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyder1129&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyder1129&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - [LinkedIn](www.linkedin.com/in/hyder-ali-shaik)
